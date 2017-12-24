@@ -9,11 +9,11 @@
 				<div class="footer two">
 					<h3>Keep Connected</h3>
 					<ul>
+						<li><a class="fb1" href="#"><i></i>Follow us on Facebook</a></li>
 						<li><a class="fb" href="#"><i></i>Follow us on Twitter</a></li>
-						<li><a class="fb1" href="#"><i></i>Follow us on Twitter</a></li>
-						<li><a class="fb2" href="#"><i></i>Add us on Google Plus</a></li>
-					
-						<li><a class="fb4" href="#"><i></i>Follow us on Pinterest</a></li>
+						<li><a class="fb2" href="#"><i></i>Follow us on Pinterest</a></li>
+					    <li><a class="fb4" href="#"><i></i>Add us on Googleplus</a></l>
+					     <li><a class="fb3" href="#"><i></i>Get Updates and Promotions</a></li>	
 					</ul>
 				</div>
 				<div class="footer three">
