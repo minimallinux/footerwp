@@ -20,7 +20,7 @@
 					<h3>Contact Us</h3>
 					<ul>
 						<li>Red Diamond Chinese <span>103 Carr House Road, Hyde Park,</span>Doncaster DN1 2BD.  </li>
-						<li><a href="tel:+441302368585">+441302368585</a>  </li>
+						<li>+44 1302 368585  </li>
 						<li><a href="mailto:esales@red-diamond-chinese.co.uk">esales@red-diamond-chinese.co.uk</a> </li>
 					</ul>
 				</div>
